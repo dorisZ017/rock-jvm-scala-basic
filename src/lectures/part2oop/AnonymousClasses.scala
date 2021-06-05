@@ -1,0 +1,59 @@
+package lectures.part2oop
+
+object AnonymousClasses extends App{
+
+  abstract class Animal {
+    def eat: Unit
+  }
+
+  // anonymous class
+  val funnyAnimal: Animal = new Animal {
+    override def eat: Unit = println("hahahaha")
+  }
+  /*
+    equivalent with
+
+    class AnonymousClasses$$anon$1 extends Animal {
+      override def eat: Unit = println("hahahaha")
+    }
+    val funnyAnimal: Animal = new AnonymousClasses$$anon$1
+   */
+
+  println(funnyAnimal.getClass) // lectures.part2oop.AnonymousClass$$anon$1
+
+  class Person(name: String) {
+    def sayHi: Unit = println(s"Hi, my name is $name, how can I help?")
+  }
+
+  val jim = new Person("Jim") {
+    override def sayHi: Unit = println(s"Hi, my name is Jim")
+
+  }
+
+  /* TAKEAWAY
+   We can instantiate types and override fields or methods on the spot
+   Rules
+   - pass in required constructor arguments if needed
+   - implement all abstract fields/methods
+   It works for traits, abstract or not
+   */
+
+  /* EXERCISE
+  1. create a generic trait MyPredicate[-T] with a little method test(T) => Boolean
+  2. generate triait MyTrasnformer[-A, B]
+  3. MyList:
+     - map(transformer) => MyList
+     - filter(predicate) => MyList
+     - flatMap(transformer from A to MyList[B] => MyList[B]
+
+     class EvenPredicate extends MyPredicate[Int]
+     class StringtoIntTransformer extends MyTransformer[String, Int]
+
+     [1,2,3].map(n * 2) = [2, 4, 6]
+     [1, 2, 3, 4].filter(n % 2) = [2, 4]
+     [1, 2, 3].flatMap(n => [n, n+1]) => [1,2,2,3,3,4]
+
+   IMPORTANT HINT: must be -T and -A (contravriant)
+   */
+
+}

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1fe7a91-2ea7-4ab9-bdb0-f8d88eaacd18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="122" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Package Object" />
+        <option value="Python Script" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="PantsLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../aiq" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kTPCG0RGUGS1Td6MJDqiTiczwK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lectures.part3fp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Inheritance">
+    <configuration name="CBNvsCBV" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.CBNvsCBV" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.Functions" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.Inheritance" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.InheritanceAndTraits" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodNotations" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.MethodNotations" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Inheritance" />
+        <item itemvalue="Application.InheritanceAndTraits" />
+        <item itemvalue="Application.MethodNotations" />
+        <item itemvalue="Application.CBNvsCBV" />
+        <item itemvalue="Application.Functions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Downloads/example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1fe7a91-2ea7-4ab9-bdb0-f8d88eaacd18" name="Default Changelist" comment="" />
+      <created>1605721478233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605721478233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2912" y="259" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1607921839540">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2912" y="259" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.956/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606191251229" />
+    <state x="2912" y="259" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.958/1680.23.1920.1057@1680.23.1920.1057" timestamp="1607921839540" />
+    <state x="3149" y="435" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608611458498">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="3149" y="435" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.961/1680.23.1920.1057@1680.23.1920.1057" timestamp="1608611458498" />
+    <state width="852" height="249" key="GridCell.Tab.0.bottom" timestamp="1606849087800">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="852" height="249" key="GridCell.Tab.0.bottom/0.23.1680.954/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606849087800" />
+    <state width="852" height="249" key="GridCell.Tab.0.bottom/0.23.1680.956/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606188737742" />
+    <state width="852" height="249" key="GridCell.Tab.0.bottom/0.23.1680.960/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606688132980" />
+    <state width="852" height="249" key="GridCell.Tab.0.center" timestamp="1606849087800">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="852" height="249" key="GridCell.Tab.0.center/0.23.1680.954/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606849087800" />
+    <state width="852" height="249" key="GridCell.Tab.0.center/0.23.1680.956/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606188737741" />
+    <state width="852" height="249" key="GridCell.Tab.0.center/0.23.1680.960/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606688132979" />
+    <state width="852" height="249" key="GridCell.Tab.0.left" timestamp="1606849087799">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="852" height="249" key="GridCell.Tab.0.left/0.23.1680.954/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606849087799" />
+    <state width="852" height="249" key="GridCell.Tab.0.left/0.23.1680.956/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606188737741" />
+    <state width="852" height="249" key="GridCell.Tab.0.left/0.23.1680.960/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606688132978" />
+    <state width="852" height="249" key="GridCell.Tab.0.right" timestamp="1606849087800">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="852" height="249" key="GridCell.Tab.0.right/0.23.1680.954/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606849087800" />
+    <state width="852" height="249" key="GridCell.Tab.0.right/0.23.1680.956/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606188737742" />
+    <state width="852" height="249" key="GridCell.Tab.0.right/0.23.1680.960/1680.23.1920.1057@1680.23.1920.1057" timestamp="1606688132979" />
+    <state x="2388" y="303" key="new project wizard" timestamp="1609042402141">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2388" y="240" key="new project wizard/0.23.1680.960/1680.23.1920.1057@1680.23.1920.1057" timestamp="1608755026180" />
+    <state x="2388" y="303" key="new project wizard/0.23.1680.961/1680.23.1920.1057@1680.23.1920.1057" timestamp="1609042402141" />
+    <state x="2648" y="219" key="run.anything.popup" timestamp="1605727409112">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2648" y="219" key="run.anything.popup/0.23.1680.956/1680.23.1920.1057@1680.23.1920.1057" timestamp="1605727409112" />
+    <state x="999" y="208" width="670" height="619" key="search.everywhere.popup" timestamp="1611111053296">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="2822" y="225" width="670" height="676" key="search.everywhere.popup/0.23.1680.958/1680.23.1920.1057@1680.23.1920.1057" timestamp="1607921359214" />
+    <state x="2822" y="225" width="670" height="676" key="search.everywhere.popup/0.23.1680.960/1680.23.1920.1057@1680.23.1920.1057" timestamp="1608741717964" />
+    <state x="2822" y="225" width="670" height="676" key="search.everywhere.popup/0.23.1680.961/1680.23.1920.1057@1680.23.1920.1057" timestamp="1609113275539" />
+    <state x="2822" y="225" width="670" height="676" key="search.everywhere.popup/0.23.1680.963/1680.23.1920.1057@1680.23.1920.1057" timestamp="1608497987556" />
+    <state x="999" y="208" width="670" height="619" key="search.everywhere.popup/0.23.1680.967/1680.23.1920.1057@0.23.1680.967" timestamp="1611111053296" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scala_beginner$Expressions.ic" NAME="Expressions Coverage Results" MODIFIED="1605727339920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lectures.part1basics.*</FILTER>
+    </SUITE>
+  </component>
+</project>
